@@ -1,5 +1,5 @@
 # web-assembly
-A mini-project series to learn writing webassembly code for developing web interfaces
+A mini-project series to learn how to compile code that targets web-assembly deployments
 
 ## This is purely experimental
 
